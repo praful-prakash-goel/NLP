@@ -1,4 +1,4 @@
-# Author: Dhaval Patel. Codebasics YouTube Channel
+# Use these training phrases for training the dialogflow model
 
 Default Welcome Intent
 ======================
